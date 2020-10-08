@@ -1,0 +1,4 @@
+transformers==2.8.0
+sentence-transformers==0.2.6.1
+faiss
+tensorboardX
